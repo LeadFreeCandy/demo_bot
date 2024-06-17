@@ -1,0 +1,5 @@
+[
+    { "name": "dishes", "description": "Wash the dishes" },
+    { "name": "vacuum", "description": "Vacuum the house" },
+    { "name": "laundry", "description": "Do the laundry" }
+]

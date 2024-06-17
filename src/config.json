@@ -1,0 +1,6 @@
+{
+    "startingPrice": 0,
+    "priceIncreaseInterval": 1000,
+    "priceIncreaseFunction": ".01 * (time * time + time)",
+    "maxPrice": 100
+}
